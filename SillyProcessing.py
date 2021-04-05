@@ -106,3 +106,7 @@ class figure:
             return perimeter/3.14/2
         elif mode == "ra":
             return (area/3.14)**0.5
+def main():
+    pass
+if __name__ == '__main__':
+    main()
