@@ -1,2 +1,2 @@
 # SillyProcessing
-A whell of python that can help to work or program.
+A wheel of python that can help to work or program.
